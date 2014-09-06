@@ -12,3 +12,12 @@ Using the google translate in terminal, and it will generate a word.data for you
     ./translate.sh cn 你好
 
 
+## Android snapshot
+
+Using the `monkeyrunner` to take a snapshot for the android device which you have connected to the computer.
+
+**Usage**
+
+    monkeyrunner android_snapshot.py
+
+
